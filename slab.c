@@ -1,7 +1,7 @@
 /**
  * @description: test code for slab allocator
  * found in slab.h
- * 
+ *
  * for license see LICENSE.txt
  */
 
@@ -9,6 +9,6 @@
 
 int main(void)
 {
-
+	init();
     return 0;
 }
